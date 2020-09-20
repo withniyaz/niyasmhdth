@@ -5,7 +5,7 @@ I’m a software engineer who is passionate about making applications more user 
 ## Find me around the web🌍:
 
 - Instagram Portfolio <a href="https://instagram.com/design.niyaz">design.niyaz</a> 
-- Dribble https://dribbble.com/designiyaz
-- Behance https://www.behance.net/designniyaz
-- Linkedin https://www.linkedin.com/in/niyas-muhammed-69b24b12a/
-- Lottie https://lottiefiles.com/design.niyaz
+- Dribble Shots <a href="https://dribbble.com/designiyaz">designniyaz</a>  
+- Behance Portfolio <a href="https://www.behance.net/designniyaz">designniyaz</a>   
+- Linkedin <a href="https://www.linkedin.com/in/niyas-muhammed-69b24b12a/">niyasmhdth</a>
+- Lottie Animations <a href=">https://lottiefiles.com/design.niyaz">design.niyaz</a
