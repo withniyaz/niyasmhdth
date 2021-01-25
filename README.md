@@ -6,7 +6,7 @@ I’m a software engineer who is passionate about making applications more user 
 
 ## Find me around the web 🌍:
 
-- Instagram Portfolio <a href="https://instagram.com/design.niyaz">design.niyaz</a> 
+- Instagram Portfolio <a href="https://instagram.com/dev.niyaz">dev.niyaz</a> 
 - Dribble Shots <a href="https://dribbble.com/designiyaz">designniyaz</a>  
 - Behance Portfolio <a href="https://www.behance.net/designniyaz">designniyaz</a>   
 - Linkedin <a href="https://www.linkedin.com/in/niyas-muhammed-69b24b12a/">niyasmhdth</a>
