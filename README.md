@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/niyasmhdth/niyasmhdth/master/Github-Header.png" alt="Banner that says Niyas Muhammed">
 
-I’m a software engineer who is passionate about making applications more user friendly, creating technology to elevate people and building community.Some technologies i enjoy working with include React, React Native, Flutter, Node.JS, Express and Javascript. My other intrest are creating unique UI Designs, Micro Interactions and implementing it with real life application cases to make the users experience upto notch.
+I’m a software engineer who is passionate about making applications more user-friendly, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, React Native, Flutter, Node.JS, Express, and Javascript. My other interests are creating unique UI Designs, Micro Interactions and implementing them with real-life application cases to make the users experience up to notch
 
 ## Find me around the web 🌍:
 
